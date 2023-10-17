@@ -1,4 +1,4 @@
-#BackEnd - Motors grupo17
+BackEnd - Motors grupo17
 
 ## Instalação e Execução
 
